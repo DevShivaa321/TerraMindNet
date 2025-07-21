@@ -1,28 +1,6 @@
-# Ignore Python cache files
-__pycache__/
-*.py[cod]
-
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore virtual environment folders
-venv/
-env/
-
-# Ignore system files
+# Ignore system-specific files
 .DS_Store
 Thumbs.db
-
-# Ignore large or sensitive data files (optional)
-*.csv
-*.tif
-*.tiff
-*.geojson
-*.shp
-*.zip
-
-# Ignore logs
-*.log
-
-# Ignore Jupyter notebook metadata (optional)
-*.nbconvert.ipynb
