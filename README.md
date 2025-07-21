@@ -91,14 +91,7 @@ This project showcases the synergy of **remote sensing**, **AI/ML**, and **cloud
 ## 📎 Folder Structure (Optional)
 
 ```bash
-TerraMind/
-├── data/
-│   ├── sentinel2_indices.csv
-│   ├── landsat8_lulc_2013_2023.tif
-├── notebooks/
-│   ├── index_prediction_models.ipynb
-│   ├── gee_classification_scripts.js
-├── results/
-│   ├── prediction_accuracy.csv
-│   ├── urbanization_change_map.png
+TerraMindNet/
 ├── README.md
+├── TerraMind_Spectral_LULC_Analysis.ipynb
+├── .gitignore
